@@ -45,12 +45,12 @@ Manages a collection of `Book` objects with the following methods:
    python library_management.py
    
 2. **Choose an Option**: Follow the prompts to select an option:
-Add a Book
-Delete a Book
-Search Books
-Display All Books
-Change Book Status
-Exit the Program
+- Add a Book
+- Delete a Book
+- Search Books
+- Display All Books
+- Change Book Status
+- Exit the Program
 
 
 
