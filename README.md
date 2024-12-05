@@ -56,4 +56,5 @@ Exit the Program
 
 # Requirements
 Python 3.x
+
 JSON file for data storage (automatically created if it does not exist)
